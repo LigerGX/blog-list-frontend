@@ -1,0 +1,47 @@
+#root {
+  margin: 32px;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 32px;
+}
+
+h2 {
+  font-size: 1.3rem;
+  margin-bottom: 12px;
+}
+
+.loggedInStatus {
+  margin-bottom: 32px;
+}
+
+.notification.success {
+  background: lightgrey;
+  border: 5px solid rgb(25, 172, 25);
+  border-radius: 10px;
+  color: rgb(25, 172, 25);
+  font-size: 20px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.notification.error {
+  background: lightgrey;
+  border: 5px solid rgb(248, 52, 52);
+  border-radius: 10px;
+  color: rgb(248, 52, 52);
+  font-size: 20px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.blogContainer {
+  border: 2px solid #0f0f0f;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 12px;
+  background-color: #FEFAE0;
+  color: #0f0f0f;
+}
